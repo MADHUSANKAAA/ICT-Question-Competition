@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1571513878 source:c:\users\mypc\documents\c\ictquestioncompetition\main.c
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
